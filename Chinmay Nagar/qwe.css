@@ -1,0 +1,196 @@
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'Staatliches', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Nunito', sans-seri
+*/
+
+*{ margin: 0;
+padding: 0; text-decoration: none;}
+.whole{position:relative; left:10%;
+ }
+body{ background-color: #25242a;}
+
+header{ width: 80%; height:20%;
+    background-color: #383535;
+display: block; color: white;
+align-content: center;
+margin-top: 30;}
+
+header ul{float: right; position: absolute
+    ; top: 01; left: 473 }
+header ul li:hover{ background-color: black;}
+header ul li{ color: white;
+    
+    display: inline-grid; 
+    line-height:5.3;padding: 10 30;
+ border: 1px solid #383535;
+    border-radius: 5px;
+ float: left;
+}
+header ul li a{ font-size: 20; color:white;}
+
+#steve{ 
+    font-size:47px;font-weight: 100;
+    position: relative;
+    font-family:serif;
+top:69; right:-12;
+}
+#brown{ font-family: "Nunito",fantasy;
+    font-size:50px; font-weight:900;
+position: relative;
+top:10; left: 231; }
+/*  
+.lfooter{  background-color: #d0cece;
+    width: 24%; 
+         float: left;
+          position: relative;
+         right: -26.0%; top: -256;
+         height: 55.5%;
+         
+}
+*/
+main{width: 80%; height: 40%;  }
+
+.content{ width: 70%;background-color: rgb(245, 245, 245) 
+          ;height: 140%;
+}
+
+#image{ width: 200;
+      position: relative;overflow:auto;
+      left: 30;
+       top: 50;
+       
+    
+    
+}
+
+#h2{  font-size: 50;
+    font-family:'Nunito',sans-serif;
+    font-weight:900; position: absolute;
+    top: 130; left: 270;
+    
+}
+
+::-webkit-scrollbar {
+display: none;
+}
+div .content-text{
+            border-right: 1px solid #b4b4b4;
+            
+           display: block; 
+            overflow:auto;
+          width: 60%; height: 80%;
+          position: relative;
+         left: 270; bottom: 150;
+
+}
+
+
+
+
+#p1{ font-size: 15px;
+      text-overflow:clip;
+     line-height: 2;
+     font-family: monospace;
+     font-weight: 600;
+    
+    
+}
+/*
+.blink_me {font-size: 40px;
+       color: yellow;
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+*/
+#p2{ font-size: 15px;
+     line-height: 1;
+      outline-width: thick;
+      position: relative;
+    top: 50;
+     outline-color: red;
+     font-family: "PT Sans",sans-serif;
+     font-weight: 900;
+}
+
+
+.lfooter{  background-color: rgb(245, 245, 245);
+    width: 24%; 
+      
+         float: left;
+          position: relative;
+         right: -56.0%; top: -263;
+         height: 56%;
+         
+}
+
+.lfooter ul{ 
+    
+}
+
+#aa{ position: absolute; top: 0;
+width:40px;}
+#bb{ position: absolute; top: 1;
+width:41px;height: 38;}
+#cc{ position: absolute; top: 0;
+width:40px; height: 40;}
+#dd{ position: absolute; top: 5;
+width:40px;}
+
+#tw{ background-color: #11a8d6;color: white;}
+#fb{background-color: rgba(66, 87, 178, 0.92); color: white;}
+#ln{background-color:#0077B5;color: white;}
+#ml{background-color: #e33636;color: white;}
+
+#tw:hover{ color: #11a8d6;background-color: white;}
+#fb:hover{background-color:white; color:  rgba(66, 87, 178, 0.92);}
+#ln:hover{color:#0077B5;background-color: white;}
+#ml:hover{color: #e33636;background-color: white;}
+
+.lfooter ul li{ display:grid;
+              list-style: none;
+               border: 1px solid silver;
+                line-height:2.5;
+                width: 220;
+                position: relative;
+                top: 60;
+                left: 30;
+             
+                
+               
+            
+    
+}
+
+.lfooter ul li a{ display: block;
+    float: left;
+    padding-left: 60;
+    
+}
+
+
+
+#p3{ font-size: 15px;
+     line-height: 3;
+      outline-width: thick;
+     outline-color: red;
+     font-family: monospace;
+    position: relative;
+    top:20; margin-left: 10;
+     font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
