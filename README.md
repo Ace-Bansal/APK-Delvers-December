@@ -12,4 +12,4 @@
 8. In the 'Commit Changes' section, write "Task 1" in place of "Add files via upload".
 9. Click on 'Commit Changes.'
 10. Click on 'New Pull Request' and then on 'Create Pull Request'. In place of title, write 'Task 1' and then finally click on 'Create Pull Request' once again.
-11. And that's it, you're done! Wait for me to merge you PR. Enjoy!
+11. And that's it, you're done! Wait for me to merge you PR. Enjoy!!!
